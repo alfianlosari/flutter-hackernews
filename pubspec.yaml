@@ -1,0 +1,31 @@
+name: hackernews
+description: A Hacker News Client implemented in Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase: ^5.0.0
+  url_launcher: ^4.0.1
+  timeago: ^2.0.8
+  flutter_launcher_icons: "^0.6.1"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  image_path: "icon/icon.png"
+  adaptive_icon_background: "#FFFAFAFA"
+  adaptive_icon_foreground: "icon/icon_rounded.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
