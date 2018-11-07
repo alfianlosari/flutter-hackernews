@@ -8,7 +8,7 @@ Hacker News Client built using Flutter
 - Run the app
 
 
-## Store
+## Download
 
-- Google Play Store - Download the app at https://play.google.com/store/apps/details?id=com.alfianlosari.hackernews
-- App Store - Pending Release
+- Google Play Store - https://play.google.com/store/apps/details?id=com.alfianlosari.hackernews
+- App Store - https://itunes.apple.com/id/app/yc-news-hn-client/id1441252795?mt=8
